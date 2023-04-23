@@ -1,7 +1,11 @@
 .transactionHistory {
   width: 400px;
-  margin: 0 auto;
+  margin: 0 auto 20px;
   border-collapse: collapse;
+
+  border: 1px solid #e9eef3;
+  border-radius: 5px;
+  box-shadow: 3px 3px 6px 0px rgba(0, 0, 0, 0.75);
 }
 
 table th,
