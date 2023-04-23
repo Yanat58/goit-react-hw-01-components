@@ -17,7 +17,14 @@
   border-radius: 50%;
   width: 15px;
   height: 15px;
-  background-color: aqua;
+}
+
+.true {
+  background-color: rgb(75, 245, 151);
+}
+
+.false {
+  background-color: rgb(241, 59, 59);
 }
 
 .avatar {
